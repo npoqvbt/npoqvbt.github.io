@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://npoqvbt.github.io/sitemap.npoqvbt.gz
+Sitemap: https://npoqvbt.github.io/app/sitemap.npoqvbt.gz
+Sitemap: https://npoqvbt.github.io/assets/sitemap.npoqvbt.gz
+Sitemap: https://npoqvbt.github.io/css/sitemap.npoqvbt.gz
+Sitemap: https://npoqvbt.github.io/data/sitemap.npoqvbt.gz
+Sitemap: https://npoqvbt.github.io/includes/sitemap.npoqvbt.gz
+Sitemap: https://npoqvbt.github.io/item/sitemap.npoqvbt.gz
+Sitemap: https://npoqvbt.github.io/src/sitemap.npoqvbt.gz
